@@ -4,16 +4,16 @@
 
 ✨ Native Korean speaker, proficient in English
 
-🏫 Education:
-🎓 Kyunghee Cyber University (4 years)
-📕 Major in Computer Information and Communication Engineering
-📕 Double major in Cyber Security & AI Technology
+🏫 Education:<br />
+🎓 Kyunghee Cyber University (4 years)<br />
+📕 Major in Computer Information and Communication Engineering<br />
+📕 Double major in Cyber Security & AI Technology<br />
 
-👩‍💻 Technical Skills:
-✅ Excel (Pivot Table, VLOOKUP, Charts, Data Visualization)
-✅ SQL (MySQL | Problem-solving on AnalystBuilder, HackerRank, Programmas)
-✅ Python (Studying with Kaggle | Data Analysis & Automation, Machin Learning)
-✅ Power BI (Data Visualization & Business Intelligence)
+👩‍💻 Technical Skills: <br />
+✅ Excel (Pivot Table, VLOOKUP, Charts, Data Visualization) <br />
+✅ SQL (MySQL | Problem-solving on AnalystBuilder, HackerRank, Programmas) <br />
+✅ Python (Studying with Kaggle | Data Analysis & Automation, Machin Learning) <br />
+✅ Power BI (Data Visualization & Business Intelligence) <br />
 
 🏃‍♂️ Work Approach:
 I take a proactive approach to work, anticipating potential challenges and preparing solutions in advance.
